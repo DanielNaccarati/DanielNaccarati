@@ -1,4 +1,4 @@
-👋 Hello there! I'm Daniel Naccarati, your friendly neighborhood Senior Software Developer with a passion for crafting digital experiences that transcend expectations. With a proven track record in full-stack and cloud technologies, I'm your go-to guru for turning complex challenges into elegant solutions.
+👋 Hey everybody! I'm Daniel Naccarati, I'm a Senior Software Engineer with a passion for crafting digital experiences that transcend expectations. With a proven track record in full-stack and cloud technologies, I'm your go-to guru for turning complex challenges into elegant solutions.
 
 🚀 My journey through the world of software has been an exhilarating adventure, encompassing years of honing my skills in both frontend and backend realms. From architecting seamless user interfaces to designing robust and scalable server systems, I thrive on bringing harmony to the entire development lifecycle.
 
